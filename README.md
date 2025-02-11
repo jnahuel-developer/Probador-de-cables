@@ -45,6 +45,7 @@ Diagrama físico realizado en Altium
 
 
 ---
+---
 
 
 ## 🖼️ Modelos 3D diseñados en Altium Designer  
@@ -59,6 +60,7 @@ Vista posterior del PCB:
 
 
 ---
+---
 
 
 ## 🛠️ Herramientas Utilizadas  
@@ -71,6 +73,7 @@ Vista posterior del PCB:
 - **Lenguaje** → C  
 
 
+---
 ---
 
 
